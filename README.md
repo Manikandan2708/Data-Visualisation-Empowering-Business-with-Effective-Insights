@@ -1,4 +1,6 @@
-# Data-Visualisation-Empowering-Business-with-Effective-Insights
+# TATA FORAGE - Data-Visualisation-Empowering-Business-with-Effective-Insights
+# POWER-BI-Project
+
 This is a Virtual internship programme in which we will be using Excel, Power Bi and Microsoft Power Point for data cleaning, data analysing, data visualization and creating data insights to answer business related questions.
 Introduction:
 An online retail store has hired you as a consultant to review their data and provide insights that would be valuable to the CEO and CMO of the business. The business has been performing well and the management wants to analyse what the major contributing factors are to the revenue so they can strategically plan for next year.
